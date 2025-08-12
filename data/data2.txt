@@ -1,0 +1,2 @@
+col	data
+A	1
